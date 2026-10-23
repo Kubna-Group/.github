@@ -2,40 +2,42 @@
 
 <!-- KUBNA · Minimalistisches Bannerkonzept: klare Typografie, viel Weißraum, dezente Akzentfarbe. -->
 
-# KUBNA
+# KUBNA GROUP
 
-**Ideen entwickeln. Lösungen gestalten.**
+**Software entwickeln. Lösungen vereinfachen.**
 
-<sub>Digitale Projekte · Entwicklung · Zusammenarbeit</sub>
+<sub>Softwareentwicklung · Engineering · Digitale Lösungen</sub>
 
 <br><br>
 
-![Kubna](https://img.shields.io/badge/KUBNA-%E2%80%A2-20242A?style=flat-square&labelColor=20242A&color=92A7A0)
+![Kubna Group](https://img.shields.io/badge/KUBNA_GROUP-%E2%80%A2-20242A?style=flat-square&labelColor=20242A&color=92A7A0)
 
 </div>
 
 ---
 
-### Über Kubna
+### Über Kubna Group
 
-Willkommen bei **Kubna**.
+Willkommen bei **Kubna Group**.
 
-Hier entsteht Raum für digitale Ideen, technische Experimente und durchdachte Projekte. Wir legen Wert auf klare Strukturen, nachvollziehbare Lösungen und kontinuierliche Verbesserung.
+**Kubna Group** beschäftigt sich mit Softwareentwicklung und der Umsetzung digitaler Lösungen. Im Mittelpunkt stehen verständlicher Code, durchdachte Architektur und Software, die zuverlässig funktioniert.
+
+Wir entwickeln Ideen weiter, hinterfragen bestehende Ansätze und setzen auf kontinuierliche Verbesserung.
 
 ### Unsere Schwerpunkte
 
-- **Entwicklung** – Software und Werkzeuge mit einem klaren Zweck.
-- **Gestaltung** – Einfache, verständliche und funktionale Lösungen.
-- **Zusammenarbeit** – Wissen teilen, Ideen weiterdenken und gemeinsam besser werden.
+- **Software Engineering** – Wartbarer Code und nachvollziehbare technische Entscheidungen.
+- **Digitale Anwendungen** – Funktionale Lösungen mit Blick auf Nutzer und Anforderungen.
+- **Qualität & Weiterentwicklung** – Testbarkeit, klare Strukturen und langfristige Pflege.
 
 ### Projekte
 
-Unsere öffentlichen Repositories findest du im Tab **Repositories**. Ausgewählte Projekte werden hier vorgestellt, sobald sie verfügbar sind.
+In unseren [öffentlichen Repositories](https://github.com/orgs/Kubna-Group/repositories) findest du unsere verfügbaren Softwareprojekte und Experimente. Ausgewählte Projekte können hier später mit Kurzbeschreibung und Link hervorgehoben werden.
 
 <!-- Wenn konkrete Projekte existieren, diesen Abschnitt ersetzen, z. B.:
 | Projekt | Kurzbeschreibung |
 | :-- | :-- |
-| [Projektname](https://github.com/Kubna/Projektname) | Ein Satz zum Projekt. |
+| [Projektname](https://github.com/Kubna-Group/Projektname) | Ein Satz zum Projekt. |
 -->
 
 ### Mitwirken
@@ -45,5 +47,5 @@ Du hast eine Idee, möchtest Feedback geben oder einen Beitrag leisten? Schau in
 ---
 
 <div align="center">
-  <sub>Kubna · Einfachheit ist eine bewusste Entscheidung.</sub>
+  <sub>Kubna Group · Software mit Klarheit entwickeln.</sub>
 </div>
